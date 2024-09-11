@@ -1,0 +1,16 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnSave": false,
+  "logViewer.watch": [
+    {
+      "title": "Debug",
+      "pattern": "./logs/debug/*log"
+    },
+    {
+      "title": "Error",
+      "pattern": "./logs/error/*log"
+    }
+  ]
+}

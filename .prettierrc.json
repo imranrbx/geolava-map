@@ -1,0 +1,14 @@
+{
+  "bracketSameLine": false,
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "semi": true,
+  "trailingComma": "all",
+  "printWidth": 100,
+  "importOrder": [
+    "^@/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
